@@ -1,4 +1,6 @@
 #!/bin/bash
+"vou ter muito sucesso em programação, eu tenho fé"
+=======
 clear
 echo "Arrays de ambiente"
 sleep 1
