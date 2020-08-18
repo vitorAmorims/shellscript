@@ -38,3 +38,4 @@ geladeira[5]=cebola #adicionando novo elemento no vetor
 echo ${geladeira[*]}
 unset geladeira[4] #removendo elemento na posição 4 do vetor
 echo ${geladeira[*]}
+"Eu sou aluno tryber e filho de DEUS"
