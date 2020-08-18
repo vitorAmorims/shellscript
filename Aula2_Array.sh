@@ -1,4 +1,6 @@
 #!/bin/bash
+"vou ter muito sucesso em programação, eu tenho fé"
+=======
 clear
 echo "Arrays de ambiente"
 sleep 1
@@ -38,4 +40,4 @@ geladeira[5]=cebola #adicionando novo elemento no vetor
 echo ${geladeira[*]}
 unset geladeira[4] #removendo elemento na posição 4 do vetor
 echo ${geladeira[*]}
-"vou ter muito sucesso em programação, eu tenho fé"
+"Eu sou aluno tryber e filho de DEUS"
